@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\RSSWithNews\RSSWithNews\bin\Debug\RSSWithNews.exe.config
+C:\Users\user\source\repos\RSSWithNews\RSSWithNews\bin\Debug\RSSWithNews.exe
+C:\Users\user\source\repos\RSSWithNews\RSSWithNews\bin\Debug\RSSWithNews.pdb
+C:\Users\user\source\repos\RSSWithNews\RSSWithNews\obj\Debug\RSSWithNews.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\RSSWithNews\RSSWithNews\obj\Debug\RSSWithNews.Form1.resources
+C:\Users\user\source\repos\RSSWithNews\RSSWithNews\obj\Debug\RSSWithNews.Properties.Resources.resources
+C:\Users\user\source\repos\RSSWithNews\RSSWithNews\obj\Debug\RSSWithNews.csproj.GenerateResource.cache
+C:\Users\user\source\repos\RSSWithNews\RSSWithNews\obj\Debug\RSSWithNews.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\RSSWithNews\RSSWithNews\obj\Debug\RSSWithNews.exe
+C:\Users\user\source\repos\RSSWithNews\RSSWithNews\obj\Debug\RSSWithNews.pdb
